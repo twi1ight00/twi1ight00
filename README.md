@@ -1,4 +1,7 @@
 ### Hi there 👋
+- ⚡ 这里是网络安全二年级生twilight~
+- 🌱 目前主攻方向是实战技战术研究和漏洞分析挖掘~
+- 📫 微信公众号、bilibili、小红书正在建设中，敬请期待~
 
 <!--
 **twi1ight00/twi1ight00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +15,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
